@@ -1,1 +1,1 @@
-"# SOLID-Principles-C-sharp" 
+# SOLID Principles C#
